@@ -1,4 +1,4 @@
-1) Посмотреть где я pwd
+1) Посмотреть где я pwd!
 2) Создать папку mkdir folder3
 3) Зайти в папку сd folder3
 4) Создать 3 папки mkdir folder1,folder2,folder3 
